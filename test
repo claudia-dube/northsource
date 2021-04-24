@@ -1,0 +1,14 @@
+<link rel="stylesheet" href="https://use.typekit.net/hlu1yes.css">
+
+<!-- TypeKit Blog Post about FOUT: http://blog.typekit.com/2010/10/29/font-events-controlling-the-fout/ -->
+<!-- Also read http://anythinggraphic.net/fix-for-fout-while-using-typekit-and-cloudflare -->
+
+<script type="text/javascript" src="http://use.typekit.com/xxxxxxx.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<style type="text/css">
+  .wf-loading {
+    /* Hide the blog title and post titles while web fonts are loading */
+    visibility: hidden;
+  }
+</style>
+
