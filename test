@@ -12,3 +12,15 @@
   }
 </style>
 
+
+
+<!-- TypeKit Cloudflare FOUT fix with Typekit -->
+
+<script type="text/javascript" src="http://use.typekit.com/hlu1yes.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<style type="text/css">
+  .wf-loading {
+    /* Hide the blog title and post titles while web fonts are loading */
+    visibility: hidden;
+  }
+</style>
